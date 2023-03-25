@@ -1,0 +1,157 @@
+[
+    {
+        "name": "北京",
+        "country": "中国",
+        "timezone": "UTC+8"
+    },
+    {
+        "name": "上海",
+        "country": "中国",
+        "timezone": "UTC+8"
+    },
+    {
+        "name": "莫斯科",
+        "country": "俄罗斯",
+        "timezone": "UTC+3"
+    },
+    {
+        "name": "伦敦",
+        "country": "英国",
+        "timezone": "UTC+0"
+    },
+    {
+        "name": "纽约",
+        "country": "美国",
+        "timezone": "UTC-4"
+    },
+    {
+        "name": "洛杉矶",
+        "country": "美国",
+        "timezone": "UTC-7"
+    },
+    {
+        "name": "华盛顿",
+        "country": "美国",
+        "timezone": "UTC-4"
+    },
+    {
+        "name": "东京",
+        "country": "日本",
+        "timezone": "UTC+9"
+    },
+    {
+        "name": "巴黎",
+        "country": "法国",
+        "timezone": "UTC+1"
+    },
+    {
+        "name": "柏林",
+        "country": "德国",
+        "timezone": "UTC+1"
+    },
+    {
+        "name": "悉尼",
+        "country": "澳大利亚",
+        "timezone": "UTC+10"
+    },
+    {
+        "name": "墨尔本",
+        "country": "澳大利亚",
+        "timezone": "UTC+11"
+    },
+    {
+        "name": "开罗",
+        "country": "埃及",
+        "timezone": "UTC+2"
+    },
+    {
+        "name": "迪拜",
+        "country": "阿联酋",
+        "timezone": "UTC+4"
+    },
+    {
+        "name": "新德里",
+        "country": "印度",
+        "timezone": "UTC+5:30"
+    },
+    {
+        "name": "布宜诺斯艾利斯",
+        "country": "阿根廷",
+        "timezone": "UTC-3"
+    },
+    {
+        "name": "多伦多",
+        "country": "加拿大",
+        "timezone": "UTC-4"
+    },
+    {
+        "name": "首尔",
+        "country": "韩国",
+        "timezone": "UTC+9"
+    },
+    {
+        "name": "罗马",
+        "country": "意大利",
+        "timezone": "UTC+1"
+    },
+    {
+        "name": "伊斯坦布尔",
+        "country": "土耳其",
+        "timezone": "UTC+3"
+    },
+    {
+        "name": "曼谷",
+        "country": "泰国",
+        "timezone": "UTC+7"
+    },
+    {
+        "name": "新加坡",
+        "country": "新加坡",
+        "timezone": "UTC+8"
+    },
+    {
+        "name": "慕尼黑",
+        "country": "德国",
+        "timezone": "UTC+1"
+    },
+    {
+        "name": "阿姆斯特丹",
+        "country": "荷兰",
+        "timezone": "UTC+1"
+    },
+    {
+        "name": "奥克兰",
+        "country": "新西兰",
+        "timezone": "UTC+13"
+    },
+    {
+        "name": "基辅",
+        "country": "乌克兰",
+        "timezone": "UTC+2"
+    },
+    {
+        "name": "雅加达",
+        "country": "印度尼西亚",
+        "timezone": "UTC+7"
+    },
+    {
+        "name": "温哥华",
+        "country": "加拿大",
+        "timezone": "UTC-7"
+    },
+    {
+        "name": "布拉格",
+        "country": "捷克",
+        "timezone": "UTC+1"
+    },
+    {
+        "name": "里斯本",
+        "country": "葡萄牙",
+        "timezone": "UTC+0"
+    },
+    {
+        "name": "开普敦",
+        "country": "南非",
+        "timezone": "UTC+2"
+    }
+]
