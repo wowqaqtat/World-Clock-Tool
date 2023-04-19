@@ -21,6 +21,10 @@
 - 保存搜索记录。
 - 窗体可调节大小，内置默认模式、迷你模式、搜索历史模式。
 
+# 截图
+
+<img src="https://raw.githubusercontent.com/wowqaqtat/World-Clock-Tool/main/doc/界面.png" height="200px"> <img src="https://raw.githubusercontent.com/wowqaqtat/World-Clock-Tool/main/doc/选择城市.png" height="200px"> <img src="https://raw.githubusercontent.com/wowqaqtat/World-Clock-Tool/main/doc/历史记录.png" height="200px">
+
 ## 注意事项
 
 1. 城市数据来源于网络，作者不对数据准确性负责，仅供测试。用户可以在 `city.json` 文件中自行添加相应的城市信息。
