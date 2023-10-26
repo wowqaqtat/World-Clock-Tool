@@ -22,7 +22,7 @@
 * [X] 保存搜索记录。
 * [X] 窗体可调节大小，内置默认模式、迷你模式、搜索历史模式。
 
-# 截图
+## 截图
 
 <img src="https://raw.githubusercontent.com/wowqaqtat/World-Clock-Tool/main/doc/界面.png" height="200px"> <img src="https://raw.githubusercontent.com/wowqaqtat/World-Clock-Tool/main/doc/选择城市.png" height="200px"> <img src="https://raw.githubusercontent.com/wowqaqtat/World-Clock-Tool/main/doc/历史记录.png" height="200px">
 
